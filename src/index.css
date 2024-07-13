@@ -1,52 +1,52 @@
 body {
-  background-color: #f0f0f0;
-  color: #333;
-  font-family: Arial, sans-serif;
+background-color: #f0f0f0;
+color: #333;
+font-family: Arial, sans-serif;
 }
 
 .App {
-  text-align: center;
-  padding: 20px;
+text-align: center;
+padding: 20px;
 }
 
 input[type="text"] {
-  padding: 10px;
-  font-size: 16px;
-  border: 2px solid #ccc;
-  border-radius: 4px;
+padding: 10px;
+font-size: 16px;
+border: 2px solid #ccc;
+border-radius: 4px;
 }
 
 button {
-  padding: 10px 20px;
-  font-size: 16px;
-  color: white;
-  background-color: #005f99;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
+padding: 10px 20px;
+font-size: 16px;
+color: white;
+background-color: #005f99;
+border: none;
+border-radius: 4px;
+cursor: pointer;
 }
 
 button:hover {
-  background-color: #004080;
+background-color: #004080;
 }
 
 .results-box {
-  margin-top: 20px;
+margin-top: 20px;
 }
 
 .result-item {
-  padding: 10px;
-  margin: 10px 0;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  background-color: white;
+padding: 10px;
+margin: 10px 0;
+border: 1px solid #ccc;
+border-radius: 4px;
+background-color: white;
 }
 
 .result-item a {
-  color: #005f99;
-  text-decoration: none;
+color: #005f99;
+text-decoration: none;
 }
 
 .result-item a:hover {
-  text-decoration: underline;
+text-decoration: underline;
 }
